@@ -1,5 +1,5 @@
 ### Hi there 👋
-IT JUST A TEST
+I'm a code beginner, so keep fighting. 
 <!--
 **kldst/kldst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
